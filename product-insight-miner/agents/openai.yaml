@@ -1,0 +1,7 @@
+interface:
+  display_name: "产品机会调研"
+  short_description: "从用户反馈提炼痛点与产品机会"
+  brand_color: "#14B8A6"
+  default_prompt: "使用 $product-insight-miner 调研一个产品方向的用户痛点、竞品盲区和产品机会，并保留可追溯证据。"
+policy:
+  allow_implicit_invocation: true
